@@ -1,0 +1,14 @@
+F:\IsDB\M_03_C#\PROJECT\E-Toll_Collection_System_by_Nakibul\ETCS\bin\Debug\ETCS.exe.config
+F:\IsDB\M_03_C#\PROJECT\E-Toll_Collection_System_by_Nakibul\ETCS\bin\Debug\ETCS.exe
+F:\IsDB\M_03_C#\PROJECT\E-Toll_Collection_System_by_Nakibul\ETCS\bin\Debug\ETCS.pdb
+F:\IsDB\M_03_C#\PROJECT\E-Toll_Collection_System_by_Nakibul\ETCS\obj\Debug\ETCS.csproj.AssemblyReference.cache
+F:\IsDB\M_03_C#\PROJECT\E-Toll_Collection_System_by_Nakibul\ETCS\obj\Debug\ETCS.csproj.CoreCompileInputs.cache
+F:\IsDB\M_03_C#\PROJECT\E-Toll_Collection_System_by_Nakibul\ETCS\obj\Debug\ETCS.exe
+F:\IsDB\M_03_C#\PROJECT\E-Toll_Collection_System_by_Nakibul\ETCS\obj\Debug\ETCS.pdb
+F:\IsDB\M_03_C#\PROJECT\E-Toll_Collection_System_by_Nakibul\1294701\ETCS\bin\Debug\ETCS.exe.config
+F:\IsDB\M_03_C#\PROJECT\E-Toll_Collection_System_by_Nakibul\1294701\ETCS\bin\Debug\ETCS.exe
+F:\IsDB\M_03_C#\PROJECT\E-Toll_Collection_System_by_Nakibul\1294701\ETCS\bin\Debug\ETCS.pdb
+F:\IsDB\M_03_C#\PROJECT\E-Toll_Collection_System_by_Nakibul\1294701\ETCS\obj\Debug\ETCS.csproj.AssemblyReference.cache
+F:\IsDB\M_03_C#\PROJECT\E-Toll_Collection_System_by_Nakibul\1294701\ETCS\obj\Debug\ETCS.csproj.CoreCompileInputs.cache
+F:\IsDB\M_03_C#\PROJECT\E-Toll_Collection_System_by_Nakibul\1294701\ETCS\obj\Debug\ETCS.exe
+F:\IsDB\M_03_C#\PROJECT\E-Toll_Collection_System_by_Nakibul\1294701\ETCS\obj\Debug\ETCS.pdb
